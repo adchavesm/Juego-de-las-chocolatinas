@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.html.eex": "html",
+        "*.leex": "HTML (EEx)",
+        "algorithm": "cpp",
+        "iostream": "cpp"
+    }
+}
